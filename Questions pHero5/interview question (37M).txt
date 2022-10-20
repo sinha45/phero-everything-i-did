@@ -1,0 +1,10 @@
+1.how does browser runs js?
+2. how does browser works?
+3. HTTP vs HTTPS
+4. Tell me something about js engine v8 internal mechanism
+5. what is renderer in js?
+6. what is event loop in js?
+7. if js is single threaded, how does it handle asynchronous call?
+8. what is SSL?
+9. Difference between setTimeOut and setInterval
+10. What is Regular EXpression?
